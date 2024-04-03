@@ -1,0 +1,392 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+li {
+  /*display: inline-block;*/
+  float: right;
+  padding: 25px 10px;
+
+}
+
+.a {
+  padding: 10px;
+  text-decoration: none;
+  color: #d11544;
+  text-align: end;
+
+}
+
+.navDiv {
+  width: 100%;
+  height: 70px;
+
+
+  box-shadow: 0 -9px 16px rgb(0, 0, 0, .7);
+  position: relative;
+ 
+
+
+}
+
+.Bname {
+  width: 16%;
+  height: 60px;
+
+  float: left;
+
+  padding-top: 10px;
+  padding-left: 40px;
+  z-index: 1;
+  /*background: red;*/
+}
+.contents{
+  
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica;
+  z-index: 0;
+  background-color: /*#FFFD37/* #FEC7B4 */ white*/;
+  
+  /*background-color: #a1122c;*/
+  
+
+
+}
+
+.list {
+  float: right;
+  padding-right: 67px;
+
+
+}
+
+.straval {
+  float: left;
+  width: 20%;
+  color: #d11544;
+
+  margin: 0;
+}
+
+.getapp {
+  width: 10%;
+  height: 70px;
+  float: right;
+  background: yellow;
+}
+
+.h1 {
+  float: left;
+  margin-left: 67px;
+  margin-top: 11px;
+  font-weight: 100;
+ 
+
+
+}
+
+.inputdiv {
+  clear: left;
+  padding-left: 54px;
+  width: 100%;
+  background: #a1122c;
+
+
+
+}
+
+.s1,
+.s2,
+.s3,
+.search {
+  float: left;
+  padding: 10px;
+  padding-left: 5px;
+  margin-left: 18px;
+
+
+
+
+
+
+}
+
+.border {
+  width: 333px;
+  height: 26px;
+  border: 2px solid;
+  border-radius: 8px;
+  border-width: 1px;
+
+}
+
+input {
+
+  border: none;
+  display: none;
+
+
+
+
+}
+
+.border:active {
+  border: 2px solid blue;
+
+}
+
+.sbutton {
+  width: 100px;
+  height: 49px;
+  border: 1px;
+  border-radius: 25px;
+  color: white;
+  background: #0047AB;
+
+}
+
+.div3 {
+  width: 88%;
+  background: #e61e43;
+  margin-top: 80px;
+  margin-left: 71px;
+  height: 155px;
+  border: 1px;
+  border-radius: 20px;
+
+
+}
+
+.quality {
+  width: 23%;
+  height: 132px;
+  background: #a1122c;
+  float: right;
+  margin: 10px;
+  border: 1px;
+  border-radius: 20px;
+
+}
+
+.quality1 {
+
+
+  float: left;
+  margin-left: 54px;
+  margin-top: 45px;
+  color: white;
+
+
+
+}
+
+.text {
+
+  margin-top: 41px;
+  margin-left: 58px;
+  color: white;
+}
+
+.div4 {
+  padding-left: 65px;
+  height: 368px;
+  /*background: #a1122c;*/
+}
+
+.div4h1 {
+  margin-left: 4px;
+
+  font-weight: lighter;
+}
+
+.div4div {
+  width: 221px;
+  height: 290px;
+
+  margin: 10px;
+  float: left;
+  border: 1px;
+  border-radius: 16px;
+  background-size: cover;
+
+
+
+}
+
+.div4img1 {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2023/11/24/VRBO_APFT2_BARCELONA_THERIN_HOUSE_1_1439.jpg?impolicy=fcrop&h=590&w=448&q=mediumHigh");
+
+
+}
+
+.div4img2 {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2023/11/24/PARTNER_Houseboat_1_Denmark_01.jpg?impolicy=fcrop&h=590&w=448&q=mediumHigh");
+}
+
+.div4img3 {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2023/11/27/5bb7f1c3-dd6c-465f-90e8-ac07b9a66ba5.jpeg?impolicy=fcrop&h=590&w=448&q=mediumHigh");
+}
+
+.div4img4 {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2023/11/24/PARTNER_Alltybrain_Farm_Cottages_.jpg?impolicy=fcrop&h=590&w=448&q=mediumHigh");
+
+}
+
+.div4img5 {
+  background-image: url("https://forever.travel-assets.com/flex/flexmanager/images/2023/12/02/3623a5ce-2e06-4f01-9072-4055c5d29326.jpeg?impolicy=fcrop&h=590&w=448&q=mediumHigh");
+
+}
+
+.h4 {
+  color: white;
+  margin-top: 262px;
+
+  margin-left: 10px;
+}
+
+a {
+  margin: 0;
+  padding: 0;
+}
+
+.div5 {
+  height: 400px;
+
+  padding-left: 60px;
+  /*background: cyan;*/
+
+
+}
+.div5hed{
+   font-weight: lighter;
+}
+
+.card {
+  margin-left: 10px;
+  width: 22%;
+  height: 233px;
+
+  border: 1px;
+  border-radius: 17px;
+  float: left;
+}
+
+.img {
+  width: 100%;
+  height: 162px;
+
+
+
+  border-top-left-radius: 17px;
+  border-top-right-radius: 17px;
+}
+
+.divname {
+  border: 1px solid;
+  border-bottom-left-radius: 17px;
+  border-bottom-right-radius: 17px;
+  margin-top: -5px;
+
+
+
+
+}
+
+.h4name {
+  margin: 10px;
+  font-weight: 150px;
+
+}
+
+.dropdown {
+  display: inline-block;
+
+}
+
+.dropdown-content {
+  display: none;
+  width: 100px;
+
+  box-shadow: 0 5px 15px;
+
+  position: absolute;
+  width: 200px;
+  padding-left: 20px;
+
+  border-radius: 5px;
+
+
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+
+
+}
+.div6{
+  padding-left: 70px;
+  
+}
+.card6{
+  width: 283px;
+  height: 400px;
+  float: left;
+  margin-left: 10px;
+  
+  background-color:white;
+  /*box-shadow: 0px 10px 15px ;*/
+ 
+
+}
+.img6{
+  height: 219px;
+  width: 100%;
+  border-radius: 16px;
+}
+.content6{
+  padding-top: 10px;
+  margin-top: -15px;
+}
+.h5{
+  margin: 12px 0px 0px 0px;
+  font-weight:lighter ;
+}
+.hM{
+  margin: 7px 0px 0px 0px;
+  font-weight:lighter 
+}
+.hov{
+  text-decoration: none;
+  color: black;
+}
+
+.hov:hover{
+  text-decoration: underline;
+
+}
+.card6text{
+  margin-bottom: 0px; font-weight: lighter;
+
+}
+.card6button{
+  width: 54%;
+  height:22px;
+  background-color: purple;
+  border-radius: 4px;
+  padding-left:30px;
+
+}
+.div7{
+  width: 100%;
+  height: 500px;
+  /*background:#FFFD37;*/
+}
+
+
